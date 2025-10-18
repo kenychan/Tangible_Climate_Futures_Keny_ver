@@ -2,7 +2,7 @@
 
 This is an updated official code for the `Tangible Climate Futures` project. The original code can be found in our https://github.com/Corgam/SS23_ADSP_TCF/.
 
-Demo available on: https://tangible-climate-futures.net/
+Demo available on (needs registration): https://tangible-climate-futures.net/
 
 Project Developers:
 
